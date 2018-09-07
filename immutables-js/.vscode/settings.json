@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/build": true,
+    "**/package-lock.json": true,
+    "**/*.css": true,
+    "node_modules/**": true
+  }
+}
